@@ -13,7 +13,7 @@ st.set_page_config(
 # Set colors and page configuration
 color1 = ['#012340','#57B7F2','#0487D9','#F29F05','#F2E0DF']
 #load data
-df = pd.read_csv(r"D:\data course\epsilion\final project\cleaned_data.csv")
+df = pd.read_csv("cleaned_data.csv")
 
 st.markdown('<h2 style="text-align: center; color: black;">Customers Sales and Profits</h2>', unsafe_allow_html=True)
 col= st.selectbox('select feature to see its distribution', ['Sales', 'Profit'], key=10)
