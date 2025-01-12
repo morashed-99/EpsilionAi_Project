@@ -23,7 +23,7 @@ st.sidebar.markdown(
 )
 
 #load data
-df = pd.read_csv(r"D:\data course\epsilion\final project\cleaned_data.csv")
+df = pd.read_csv(r""C:\Users\Mohamed Koura\final_proj\cleaned_data.csv"")
 
 # Main page title
 st.markdown('<h1 style="text-align: center; color: black;">Home Page For Dashboard</h1>', unsafe_allow_html=True)
