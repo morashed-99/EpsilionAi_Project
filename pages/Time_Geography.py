@@ -12,7 +12,7 @@ st.set_page_config(
 # Set colors and page configuration
 color1 = ['#012340','#57B7F2','#0487D9','#F29F05','#F2E0DF']
 #load data
-df = pd.read_csv(r"D:\data course\epsilion\final project\cleaned_data.csv")
+df = pd.read_csv("cleaned_data.csv")
 
 tab1, tab2 = st.tabs(['🕑 Time','🌎 Geography'])
 
