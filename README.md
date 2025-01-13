@@ -18,7 +18,7 @@
  Identify opportunities to optimize shipping processes.
 6. Reporting and Visualization:
  Create dashboards and reports to present key insights.
- Use tools like Tableau, Power BI, or Python libraries (e.g., plotly)
+ Use Python libraries (e.g., plotly)
 # Conclusion:
 Revenue: 1.9 M  ,  Profit: 227.832 K  , Cost: 25.434 K , N Of Customers: 1130
  N Of Managers: 4 , N Of Orders: 1365 ,N Of Categories: 3 , N Of Sub-Category: 17
